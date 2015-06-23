@@ -1,0 +1,14 @@
+Instructions to run the program:
+
+The program was developed on Python 3.4.3, and has been tested on it.
+Please use this version of Python to run the code.
+
+While the program also seems to work on Python 2.7.9, it hasn't been tested on it.
+
+To run the program, cd into this directory.
+python confilg_exercise.py
+will execute the code in the manner similar to the example provided.
+
+The modules internally used, call config_loader.py, and parse_config.py
+
+The configuration file is named as file.config
